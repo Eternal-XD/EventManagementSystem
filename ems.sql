@@ -41,10 +41,10 @@ CREATE TABLE `attendee` (
 --
 
 INSERT INTO `attendee` (`id`, `name`, `password`, `contactnumber`, `email`, `gender`) VALUES
-(5, 'rashma', 'rashma#123', '077562321', NULL, 'Male'),
-(6, 'chamod', 'chamod123abc', '077562577', NULL, 'Male'),
-(8, 'Pamila', '#Sendila30465', '0779118254', 'gamagepamila@gmail.com', 'Male'),
-(9, 'name', 'pswd', '0762208254', 'idk', 'Male'),
+(5, 'sakithma', 'sakithma123', '0772939214', NULL, 'Male'),
+(6, 'shevon', 'shevon123abc', '0773191032', NULL, 'Male'),
+(8, 'tharu', '#tharu30465', '0773149872', 'tharudeneth621@gmail.com', 'Male'),
+(9, 'name', 'pswd', '0762902190', 'idk', 'Male'),
 (10, 'abc', 'abc', 'abc', 'abc', 'Female'),
 (11, 'hello', '123', '123', '123', 'Male');
 
